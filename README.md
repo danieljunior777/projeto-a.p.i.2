@@ -40,15 +40,11 @@ Backlog mais Atualizado:
 
 
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Como usuário, quero uma revisão no projeto antes da entrega.
+- [ ] Como gestor, quero receber a versão final do programa, sem necessidade de ajustes adicionais.
+- [ ] Como usuário, quero ter acesso a slides criados no Power BI para apoiar a apresentação do projeto.
+- [ ] Como espectador, quero ver uma apresentação bem definida com um projeto funcional e bem estruturado.
+
 
 # Registro das Sprints
 
